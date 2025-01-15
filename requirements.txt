@@ -1,0 +1,8 @@
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.18.0
+yfinance==0.2.33
+requests==2.31.0
+numpy==1.26.2
+fredapi==0.5.1
+python-dotenv==1.0.0
